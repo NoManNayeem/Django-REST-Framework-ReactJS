@@ -1,0 +1,9 @@
+Django==4.1
+django-filter  
+markdown
+djangorestframework
+djangorestframework-simplejwt==4.8.0
+djangorestframework==3.11.0
+django-rest-swagger==2.2.0
+django-rest-framework-social-oauth2==1.1.0
+drf-yasg==1.21.3
